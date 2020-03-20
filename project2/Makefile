@@ -36,3 +36,4 @@ library:
 
 static_library:
 	ar cr $(LIBS)libbpt.a $(OBJS_FOR_LIB)
+
